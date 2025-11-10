@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "label": "نام",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0bxb09w",
+        "columns": null
+      },
+      "id": "Field_0fzpq4q",
+      "key": "textfield_eiyrle"
+    },
+    {
+      "label": "نام خانوادگی",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_16grifr",
+        "columns": null
+      },
+      "id": "Field_03kysf4",
+      "key": "textfield_114fer"
+    }
+  ],
+  "type": "default",
+  "id": "Form_t1",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.36.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.23.0",
+  "schemaVersion": 18
+}
